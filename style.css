@@ -1,0 +1,113 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 50px 50px 0 50px;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+  }
+
+.MAIN {
+  flex: 1;
+}
+
+.EPISTLETECH {
+  font-size: 2REM;
+  color: blue;
+}
+
+
+
+h1 {
+  font-size: 5rem;
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+
+.tile-image {
+  height: 200px;
+  float: FLEX;
+  margin-right: 50px;
+}
+
+.card {
+  width: 45%;
+}
+
+.left {
+  float: lefT;
+}
+
+.right {
+  float: right;
+}
+
+.creative {
+  color: midnightbluE;
+}
+
+
+
+.VISION {
+  color: red;
+}
+.CREATIVITY {
+  color: red;
+}
+.EPISTLE {
+  font-size: 2REM;
+  color: blue,;
+}
+
+.CHUCHU {
+  text-align: center;
+  font-size: 2REM;
+  font-weight: 800;
+  color: midnightblue;
+}
+
+.CUSTOM {
+  color: red;
+  font-weight: 900;
+  font-size: 2REM;
+  margin-top: 10%;
+}
+
+
+.WHY {
+  color: blue;
+  font-weight: 700;
+}
+
+
+
+
+
+
+@media (max-width: 680px) {}
+  .logo {
+    width: 100px;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  .card {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+
+  .card img {
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline;
+    object-fit: cover;
+  }
+
